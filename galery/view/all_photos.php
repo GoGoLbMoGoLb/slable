@@ -1,0 +1,1 @@
+	<h1>all_photos</h1>
